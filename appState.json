@@ -70,6 +70,11 @@
             "name": "cloud9-ktest"
           }
         }
+      },
+      "translateResource": {
+        "name": "translateResource",
+        "type": "Translate",
+        "config": {}
       }
     },
     "customTemplate": {
@@ -133,7 +138,7 @@
     "platformRegions": {
       "AWS": "us-east-1"
     },
-    "lastSave": 1589183018327
+    "lastSave": 1589183331360
   },
   "VCS_STATE": {
     "provider": "GitHub",
